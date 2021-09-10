@@ -29,5 +29,5 @@ A step by step series of examples that tell you how to get a development env run
 ## Authors
 * **[Akashdeep Gupta](https://github.com/Akashdeep-47)**
 
-* **[Govind Singh](https://github.com/)**
+* **[Govind Singh](https://github.com/adiboy17)**
 
