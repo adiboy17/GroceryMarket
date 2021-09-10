@@ -1,5 +1,7 @@
 # GroceryMarket
-The recent threat of COVID-19 has put everything on hold.While we want to do our best with social disatncing and quarantining at our home groceries is a basic need we all have.Regarding this situation we thought of building a project using which we can order grocieries while staying at home.The website is equipped with all types of fuctionalities needed such as Login/Sign up registraion and Checkout procedures.Contributions are most welcome.
+Need for Speed - Most Wanted!
+We get our food in 30 mins, but have to wait for a 90 mins slot to get our groceries, and a day or more for our Amazon/ Flipkart shipments. Things shouldn’t be that unfair!
+Research and develop a POC which enables as quick as 15 min grocery delivery and same day ecommerce delivery at scale.
 
 <br />
 
